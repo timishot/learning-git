@@ -1,6 +1,6 @@
 # learning-git
 
-##This repo was used to learn git from amiscode
+## This repo was used to learn git from amiscode
 
 https://amigoscode.com/courses/git-github
 
