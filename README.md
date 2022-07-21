@@ -1,4 +1,4 @@
-# learning-git
+# GIT and Github course
 
 ## This repo was used to learn git from amiscode
 
